@@ -1,4 +1,4 @@
-import java.util.Collections;
+// import java.util.Collections;
 
 public class ReverseArray {
     public static void main(String ar[]){
